@@ -1,4 +1,10 @@
 贪吃蛇小游戏1.0版
+
+
+
+
+
+
 <img width="593" height="425" alt="屏幕截图 2025-08-13 205123" src="https://github.com/user-attachments/assets/4a74c399-6ee0-44f9-805a-7039d0bcc195" />
 
 
